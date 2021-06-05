@@ -41,5 +41,3 @@ URL: `http://localhost:8000/api/clientes/?page=<PAGINA>`
 URL: `http://localhost:8000/api/produtos/<ID>/`
 
 URL: `http://localhost:8000/api/clientes/<ID>/`
-
-#### Alguns conceitos do `SOLID` foram usados
